@@ -1,0 +1,7 @@
+/vendor/
+/logs/
+/evidence/
+.env
+*.pem
+*.csv
+smtp_mock_server.js

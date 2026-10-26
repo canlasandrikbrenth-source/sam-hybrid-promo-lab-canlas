@@ -1,0 +1,16 @@
+{
+    "name": "sam/marketing-email-lab",
+    "description": "Systems Administration and Maintenance - Hybrid Promotional Campaign Laboratory",
+    "type": "project",
+    "require": {
+        "php": ">=8.2",
+        "aws/aws-sdk-php": "^3.0",
+        "phpmailer/phpmailer": "^6.9",
+        "fakerphp/faker": "^1.23"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lab\\": "src/"
+        }
+    }
+}
