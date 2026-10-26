@@ -2,6 +2,7 @@
 
 **Course:** Systems Administration and Maintenance  
 **Student:** Andrik Canlas  
+**Repository:** https://github.com/canlasandrikbrenth-source/sam-hybrid-promo-lab-canlas.git  
 **Stack:** PHP 8.2+ (OOP), MySQL 8.0 / MariaDB, Composer, FakerPHP, PHPMailer, Amazon SQS, CloudWatch, Mailtrap
 
 ---

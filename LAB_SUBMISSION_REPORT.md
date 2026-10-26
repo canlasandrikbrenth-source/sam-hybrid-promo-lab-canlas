@@ -4,7 +4,7 @@
 **Student ID / Number:** 11-0251-543  
 **Course & Section:** Systems Administration and Maintenance (SAM10)  
 **Date:** October 26, 2026  
-**GitHub Repository:** `https://github.com/andrikcanlas/sam-hybrid-promo-lab.git`
+**GitHub Repository:** `https://github.com/canlasandrikbrenth-source/sam-hybrid-promo-lab-canlas.git`
 
 ---
 
